@@ -1,0 +1,38 @@
+
+.floating-icons-admin .floating-icons-container {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 20px;
+    margin-top: 20px;
+}
+.floating-icons-admin .add-icon-form,
+.floating-icons-admin .icons-list {
+    background: #fff;
+    padding: 20px;
+    border: 1px solid #ccd0d4;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+}
+.floating-icons-admin h2 {
+    margin-top: 0;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ddd;
+}
+.floating-icons-settings {
+    max-width: 800px;
+}
+#icons-list-body tr {
+    cursor: move;
+}
+.floating-icons-nudge {
+    margin: 20px 0;
+}
+#floating-icons-live-preview {
+    border: 1px dashed #ccc;
+    padding: 20px;
+    min-height: 120px;
+}
+@media (max-width: 782px) {
+    .floating-icons-admin .floating-icons-container {
+        grid-template-columns: 1fr;
+    }
+}
