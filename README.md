@@ -1,9 +1,9 @@
-جهت اتصال و نصب پلاگین فوق، دستورالعمل های زیر را دنبال کنید:
+To connect and install the above plugin, follow the instructions below:
 
-1- تمام فایل های فوق را دانلود کنید.
-2- تمام فایل ها را در یک فولدر جداگانه اپلود کنید. (فایل هایی که در فولدر است را همانند همان در یک فولدر بریزید.
-3- فایل را تبدیل به یک فولدر zip کنید.
-4- فولدر zip را داخل کتابخانه wordpress نصب کنید.
-فایل ها از لحاظ امنیتی هیچگونه مشکلی ندارند و به هیچگونه محتوا یا اطلاعاتی دسترسی ندارند.
+1- Download all the above files.
+2- Upload all the files in a separate folder. (Put the files in the folder in the same folder.
+3- Convert the file to a zip folder.
+4- Install the zip folder into the wordpress library.
 
-اکنون همه چیز آمادست، می تونید آیکون های سفارشی بسازید و آنها را لینک کنید.
+The files have no security issues and do not have access to any content or information.
+Now everything is ready, you can create custom icons and link them.
